@@ -1,4 +1,4 @@
-## *Bootcamp DIO - NTT DATA - Engenharia de Dados com Python*
+## **Bootcamp DIO - NTT DATA - Engenharia de Dados com Python**
 
 ## Desafio - Otimizando o Sistema Bancário com Funções Python
 
